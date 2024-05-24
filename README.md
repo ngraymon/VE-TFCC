@@ -1,4 +1,3 @@
-Final adjustments to the repo are being made before it is ported over from gitlab.
 For questions or information about the code please reach out to me at neil.raymond@uwaterloo.ca.
 
 
