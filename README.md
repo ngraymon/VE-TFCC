@@ -1,4 +1,5 @@
 Temporary public repo for sharing code (if needed).
+Most likely will be used for continuing support of VE-TFCC on an ongoing basis.
 For questions or information about the code please reach out to me at neil.raymond@uwaterloo.ca.
 
 
